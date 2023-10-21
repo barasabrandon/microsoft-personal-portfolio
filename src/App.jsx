@@ -24,14 +24,14 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Alexandrie Grenier",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
+  name: "Brandon Wanambisi",
+  title: "Web Designer & Flutter Mobile Developer",
+  email: "barasabrandon@gmail.com",
   gitHub: "microsoft",
   instagram: "microsoft",
-  linkedIn: "satyanadella",
+  linkedIn: "https://www.linkedin.com/in/brandon-wanambisi-1101a322a/",
   medium: "",
-  twitter: "microsoft",
+  twitter: "https://twitter.com/barasabrandon",
   youTube: "Code",
 };
 
